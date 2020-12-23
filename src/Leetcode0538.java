@@ -1,5 +1,3 @@
-package leetcode_0538_convert_bst_to_greater_tree;
-
 import util.TreeNode;
 
 /**

@@ -1,5 +1,3 @@
-package leetcode_0091_decode_ways;
-
 /**
  * 一条包含字母 A-Z 的消息通过以下方式进行了编码：
  *

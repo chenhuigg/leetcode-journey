@@ -1,5 +1,3 @@
-package leetcode_0093_restore_ip_addresses;
-
 import java.util.ArrayList;
 import java.util.List;
 
